@@ -1,9 +1,9 @@
-## Hi there 👋
-       
-      <h1 align="center">Hi 👋, I'm Faysal Hossain</h1>
-<h3 align="center">A passionate Android App developer from Bangladesh</h3>
 
-<img aling="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56032040/194466531-e54d0c28-84d3-4139-8e8a-140e544d945c.jpg">
+![Artboard – 1](https://user-images.githubusercontent.com/56032040/194468301-c1f028ca-34ba-4d54-b06c-8579171ee8da.jpg)
+<h1 align="center">Hi 👋, I'm Faysal Hossain</h1>
+<h3 align="center">A passionate Android developer from Bangladesh</h3>
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56032040/194469650-d2f93495-de8b-4f89-920a-f6af4639a1f1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhossain11&label=Profile%20views&color=0e75b6&style=flat" alt="mhossain11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
