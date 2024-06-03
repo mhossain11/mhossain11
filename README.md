@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kotlin and Flutter**
 
-- 💬 Ask me about **Android **
+- 💬 Ask me about **Android/IOS**
 
 - 📫 How to reach me **munnafh11@gmail.com**
 
